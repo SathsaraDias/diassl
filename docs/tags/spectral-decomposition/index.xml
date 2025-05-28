@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spectral Decomposition on Sathsara Dias</title>
-    <link>https://github.com/SathsaraDias/diassl/tags/spectral-decomposition/</link>
+    <link>https://sathsaradias.github.io/diassl/tags/spectral-decomposition/</link>
     <description>Recent content in Spectral Decomposition on Sathsara Dias</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://github.com/SathsaraDias/diassl/tags/spectral-decomposition/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sathsaradias.github.io/diassl/tags/spectral-decomposition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Identifying the Onset of Buffet Boundary Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_boundary_dmd/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_boundary_dmd/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_boundary_dmd/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_boundary_dmd/</guid>
       <description>&lt;img src=&#34;featured.gif&#34; alt=&#34;DMD-based buffet boundary detection on OAT15A airfoil&#34; width=&#34;1000&#34; style=&#34;display:block; margin:auto;&#34;&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

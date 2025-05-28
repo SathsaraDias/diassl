@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sathsara Dias</title>
-    <link>https://github.com/SathsaraDias/diassl/authors/sathsara-dias/</link>
+    <link>https://sathsaradias.github.io/diassl/authors/sathsara-dias/</link>
     <description>Recent content on Sathsara Dias</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://github.com/SathsaraDias/diassl/authors/sathsara-dias/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sathsaradias.github.io/diassl/authors/sathsara-dias/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Identifying Buffet Oscillations Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_oscillations_dmd/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_oscillations_dmd/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_oscillations_dmd/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_oscillations_dmd/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     For supplementary technical notes, figures, or data, please contact the corresponding author.
@@ -32,10 +32,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Analysis of Tidal Flows Through the Strait of Gibraltar Using Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/journal-article/gibraltar/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/journal-article/gibraltar/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/journal-article/gibraltar/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/journal-article/gibraltar/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     For supplementary technical notes, figures, or code, please contact the corresponding author.
@@ -46,10 +46,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Identifying the Onset of Buffet Boundary Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_boundary_dmd/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_boundary_dmd/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_boundary_dmd/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_boundary_dmd/</guid>
       <description>&lt;img src=&#34;featured.gif&#34; alt=&#34;DMD-based buffet boundary detection on OAT15A airfoil&#34; width=&#34;1000&#34; style=&#34;display:block; margin:auto;&#34;&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -65,10 +65,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Tracking of Buffet Oscillations in Transient Simulations of a Transonic Airfoil Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/conference_ds23/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/conference_ds23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/conference_ds23/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/conference_ds23/</guid>
       <description>&lt;img src=&#34;featured.png&#34; alt=&#34;Visualization of DMD applied to transonic buffet onset&#34; width=&#34;1300&#34; style=&#34;display:block; margin:auto;&#34;&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -85,10 +85,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Predicting the Onset of Shock-Induced Buffet Using Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/aps/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/aps/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Presented at the 73rd Annual Meeting of the APS Division of Fluid Dynamics, 23rd November 2020.
@@ -110,10 +110,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Dynamic Mode Decomposition Uncovers Hidden Oceanographic Features Around the Strait of Gibraltar</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps_g/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/aps_g/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps_g/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/aps_g/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Presented at the 73rd Annual Meeting of the APS Division of Fluid Dynamics.
@@ -135,10 +135,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Analyzing the Transition to Buffeting of a 2D Airfoil using the Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_i/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/dd_i/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_i/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/dd_i/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Presented at Dynamics Days 2020 (Hilton, Hartford CT, USA) and the 4th Mathematics Conference and Competition of Northern New York (MCCNNY), Clarkson University, USA.
@@ -160,10 +160,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Dynamical Mode Analysis of Tidal Flows Through the Strait of Gibraltar</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_g/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/dd_g/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_g/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/dd_g/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Presented at Dynamics Days 2020: International Conference on Chaos and Nonlinear Dynamics, Hilton, Hartford CT, USA.
@@ -178,10 +178,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Rainfall Forecasting Using Artificial Neural Networks</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/thesis/msc/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/thesis/msc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/thesis/msc/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/thesis/msc/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     M.Sc. research conducted at the Department of Mathematics, University of Peradeniya, Sri Lanka (2012–2013).
@@ -196,10 +196,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>NERCCS 2024 – Seventh Northeast Regional Conference on Complex Systems</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a1/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a1/</link>
       <pubDate>Mon, 18 Mar 2024 09:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a1/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Oral Presentation:&lt;/strong&gt; NERCCS 2024 – Seventh Northeast Regional Conference on Complex Systems, Clarkson University, USA, Mar 2024&lt;/p&gt;
 &lt;p&gt;This talk focused on recent research progress in dynamic mode decomposition (DMD) and its role in analyzing high-dimensional, time-series data from complex systems. Methodologies, case studies, and future directions were discussed. (Slides and further details will be made available soon.)&lt;/p&gt;
 </description>
@@ -207,10 +207,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>SIAM DS23 – Applications of Dynamical Systems</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a2/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a2/</link>
       <pubDate>Sun, 14 May 2023 09:00:00 -0700</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a2/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a2/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Poster Presentation:&lt;/strong&gt; SIAM DS23, Applications of Dynamical Systems, USA, May 2023&lt;/p&gt;
 &lt;p&gt;This poster presented recent advances in data-driven modeling and dynamic mode decomposition for the study of nonlinear dynamical systems. The session included practical applications and visualization of DMD results for complex, real-world datasets. (Poster and further materials will be shared upon request.)&lt;/p&gt;
 </description>
@@ -218,10 +218,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>MCCNNY 2022 – Oral Presentation</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a3/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a3/</link>
       <pubDate>Tue, 01 Mar 2022 09:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a3/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Oral Presentation:&lt;/strong&gt; MCCNNY 2022, Clarkson University, Potsdam, NY, USA, Mar 2022&lt;br&gt;
 Presented recent work on data-driven modeling and the practical implementation of dynamic mode decomposition for classification of nonlinear flow dynamics in engineering systems.&lt;/p&gt;
 </description>
@@ -229,10 +229,10 @@ Presented recent work on data-driven modeling and the practical implementation o
     
     <item>
       <title>SIAM DS21 – Applications of Dynamical Systems</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a4/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a4/</link>
       <pubDate>Tue, 25 May 2021 10:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a4/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Oral Presentation:&lt;/strong&gt; SIAM DS21, Applications of Dynamical Systems, USA, May 2021&lt;br&gt;
 Discussed recent innovations in data-driven detection methods for dynamical systems, including practical DMD applications.&lt;/p&gt;
 </description>
@@ -240,10 +240,10 @@ Discussed recent innovations in data-driven detection methods for dynamical syst
     
     <item>
       <title>73rd APS DFD – Nonlinear Dynamics Session K06:6</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a5/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a5/</link>
       <pubDate>Sun, 22 Nov 2020 10:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a5/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a5/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Conference Talk:&lt;/strong&gt; 73rd APS Division of Fluid Dynamics, Session K06:6: Nonlinear Dynamics, USA, Nov 2020&lt;br&gt;
 Discussed real-time techniques for nonlinear dynamics analysis and sliding-window DMD in fluid flows.&lt;/p&gt;
 </description>
@@ -251,10 +251,10 @@ Discussed real-time techniques for nonlinear dynamics analysis and sliding-windo
     
     <item>
       <title>RAPS 2020 – Best Graduate Poster</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a7/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a7/</link>
       <pubDate>Wed, 15 Apr 2020 09:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a7/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a7/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Poster Presentation:&lt;/strong&gt; RAPS 2020 (Best Graduate Poster), Clarkson University, USA, Apr 2020&lt;br&gt;
 Presented award-winning research on novel DMD algorithms for time-series analysis at RAPS 2020.&lt;/p&gt;
 </description>
@@ -262,10 +262,10 @@ Presented award-winning research on novel DMD algorithms for time-series analysi
     
     <item>
       <title>Dynamics Days 2020 – Poster Presentation</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a6/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a6/</link>
       <pubDate>Mon, 06 Jan 2020 09:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a6/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a6/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Poster Presentation:&lt;/strong&gt; Dynamics Days 2020, Hartford, CT, USA, Jan 2020&lt;br&gt;
 Demonstrated DMD-based methods for the extraction of coherent structures in nonlinear flow fields.&lt;/p&gt;
 </description>

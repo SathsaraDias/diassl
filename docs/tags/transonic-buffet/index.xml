@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transonic Buffet on Sathsara Dias</title>
-    <link>https://github.com/SathsaraDias/diassl/tags/transonic-buffet/</link>
+    <link>https://sathsaradias.github.io/diassl/tags/transonic-buffet/</link>
     <description>Recent content in Transonic Buffet on Sathsara Dias</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     
-	    <atom:link href="https://github.com/SathsaraDias/diassl/tags/transonic-buffet/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sathsaradias.github.io/diassl/tags/transonic-buffet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tracking of Buffet Oscillations in Transient Simulations of a Transonic Airfoil Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/conference_ds23/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/conference_ds23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/conference_ds23/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/conference_ds23/</guid>
       <description>&lt;img src=&#34;featured.png&#34; alt=&#34;Visualization of DMD applied to transonic buffet onset&#34; width=&#34;1300&#34; style=&#34;display:block; margin:auto;&#34;&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

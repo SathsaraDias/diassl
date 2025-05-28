@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MCCNNY on Sathsara Dias</title>
-    <link>https://github.com/SathsaraDias/diassl/tags/mccnny/</link>
+    <link>https://sathsaradias.github.io/diassl/tags/mccnny/</link>
     <description>Recent content in MCCNNY on Sathsara Dias</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 01 Mar 2022 09:00:00 -0500</lastBuildDate>
     
-	    <atom:link href="https://github.com/SathsaraDias/diassl/tags/mccnny/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sathsaradias.github.io/diassl/tags/mccnny/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analyzing the Transition to Buffeting of a 2D Airfoil using the Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_i/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/dd_i/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_i/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/dd_i/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Presented at Dynamics Days 2020 (Hilton, Hartford CT, USA) and the 4th Mathematics Conference and Competition of Northern New York (MCCNNY), Clarkson University, USA.
@@ -39,10 +39,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>MCCNNY 2022 – Oral Presentation</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a3/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a3/</link>
       <pubDate>Tue, 01 Mar 2022 09:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a3/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Oral Presentation:&lt;/strong&gt; MCCNNY 2022, Clarkson University, Potsdam, NY, USA, Mar 2022&lt;br&gt;
 Presented recent work on data-driven modeling and the practical implementation of dynamic mode decomposition for classification of nonlinear flow dynamics in engineering systems.&lt;/p&gt;
 </description>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>APS DFD on Sathsara Dias</title>
-    <link>https://github.com/SathsaraDias/diassl/tags/aps-dfd/</link>
+    <link>https://sathsaradias.github.io/diassl/tags/aps-dfd/</link>
     <description>Recent content in APS DFD on Sathsara Dias</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://github.com/SathsaraDias/diassl/tags/aps-dfd/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sathsaradias.github.io/diassl/tags/aps-dfd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predicting the Onset of Shock-Induced Buffet Using Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/aps/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/aps/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Presented at the 73rd Annual Meeting of the APS Division of Fluid Dynamics, 23rd November 2020.
@@ -39,10 +39,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Dynamic Mode Decomposition Uncovers Hidden Oceanographic Features Around the Strait of Gibraltar</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps_g/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/aps_g/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/aps_g/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/aps_g/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Presented at the 73rd Annual Meeting of the APS Division of Fluid Dynamics.
@@ -64,10 +64,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>73rd APS DFD – Nonlinear Dynamics Session K06:6</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/a5/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/a5/</link>
       <pubDate>Sun, 22 Nov 2020 10:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/a5/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/a5/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Conference Talk:&lt;/strong&gt; 73rd APS Division of Fluid Dynamics, Session K06:6: Nonlinear Dynamics, USA, Nov 2020&lt;br&gt;
 Discussed real-time techniques for nonlinear dynamics analysis and sliding-window DMD in fluid flows.&lt;/p&gt;
 </description>

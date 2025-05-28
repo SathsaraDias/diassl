@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sathsara Dias</title>
-    <link>https://github.com/SathsaraDias/diassl/</link>
+    <link>https://sathsaradias.github.io/diassl/</link>
     <description>Recent content on Sathsara Dias</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://github.com/SathsaraDias/diassl/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sathsaradias.github.io/diassl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Publications</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acknowledgements</title>
-      <link>https://github.com/SathsaraDias/diassl/acknowledgement/</link>
+      <link>https://sathsaradias.github.io/diassl/acknowledgement/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/acknowledgement/</guid>
+      <guid>https://sathsaradias.github.io/diassl/acknowledgement/</guid>
       <description>&lt;p&gt;I am deeply indebted to my advisor, &lt;strong&gt;Dr. Marko Budišić&lt;/strong&gt;, whose invaluable advice, guidance, suggestions, experience, wisdom, and support have been instrumental in my academic development. His exceptional mentorship over the past six years has not only helped me improve as a mathematician but also enriched my overall academic journey. I could not have hoped for a better advisor.&lt;/p&gt;
 &lt;p&gt;I am also profoundly grateful to my co-advisor, &lt;strong&gt;Dr. Brian Helenbrook&lt;/strong&gt;, for his invaluable support and guidance, especially during the final year of my PhD. His mentorship was as impactful as that of an advisor, and I am sincerely thankful for his contributions.&lt;/p&gt;
 &lt;p&gt;I would like to extend my heartfelt thanks to my co-advisor, &lt;strong&gt;Dr. Pat Piperni&lt;/strong&gt;, for generously sharing the NSU2D code, guiding me on its effective use, assisting with project-related issues, and providing numerous research ideas. Additionally, I express gratitude to &lt;strong&gt;D. Mavriplis&lt;/strong&gt; of the University of Wyoming for sharing the NSU2D code with us and for his help with the setup of the code.&lt;/p&gt;
@@ -41,19 +41,19 @@
     
     <item>
       <title>TALKS AND POSTER PRESENTATIONS</title>
-      <link>https://github.com/SathsaraDias/diassl/talk/</link>
+      <link>https://sathsaradias.github.io/diassl/talk/</link>
       <pubDate>Mon, 18 Mar 2024 09:00:00 -0500</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/talk/</guid>
+      <guid>https://sathsaradias.github.io/diassl/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://github.com/SathsaraDias/diassl/project/</link>
+      <link>https://sathsaradias.github.io/diassl/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/project/</guid>
+      <guid>https://sathsaradias.github.io/diassl/project/</guid>
       <description></description>
     </item>
     

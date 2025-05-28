@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian T. Helenbrook on Sathsara Dias</title>
-    <link>https://github.com/SathsaraDias/diassl/authors/brian-t.-helenbrook/</link>
+    <link>https://sathsaradias.github.io/diassl/authors/brian-t.-helenbrook/</link>
     <description>Recent content in Brian T. Helenbrook on Sathsara Dias</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://github.com/SathsaraDias/diassl/authors/brian-t.-helenbrook/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sathsaradias.github.io/diassl/authors/brian-t.-helenbrook/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Identifying Buffet Oscillations Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_oscillations_dmd/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_oscillations_dmd/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_oscillations_dmd/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_oscillations_dmd/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     For supplementary technical notes, figures, or data, please contact the corresponding author.
@@ -32,10 +32,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Identifying the Onset of Buffet Boundary Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_boundary_dmd/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_boundary_dmd/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/journal-article/buffet_boundary_dmd/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/journal-article/buffet_boundary_dmd/</guid>
       <description>&lt;img src=&#34;featured.gif&#34; alt=&#34;DMD-based buffet boundary detection on OAT15A airfoil&#34; width=&#34;1000&#34; style=&#34;display:block; margin:auto;&#34;&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -51,10 +51,10 @@ Add additional technical explanations, figures, or code snippets here.
     
     <item>
       <title>Tracking of Buffet Oscillations in Transient Simulations of a Transonic Airfoil Using Sliding-Window Dynamic Mode Decomposition</title>
-      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/conference_ds23/</link>
+      <link>https://sathsaradias.github.io/diassl/publication/conference-paper/conference_ds23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/conference_ds23/</guid>
+      <guid>https://sathsaradias.github.io/diassl/publication/conference-paper/conference_ds23/</guid>
       <description>&lt;img src=&#34;featured.png&#34; alt=&#34;Visualization of DMD applied to transonic buffet onset&#34; width=&#34;1300&#34; style=&#34;display:block; margin:auto;&#34;&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
