@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamics Days on Sathsara Dias</title>
+    <link>https://github.com/SathsaraDias/diassl/tags/dynamics-days/</link>
+    <description>Recent content in Dynamics Days on Sathsara Dias</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Mon, 06 Jan 2020 09:00:00 -0500</lastBuildDate>
+    
+	    <atom:link href="https://github.com/SathsaraDias/diassl/tags/dynamics-days/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analyzing the Transition to Buffeting of a 2D Airfoil using the Dynamic Mode Decomposition</title>
+      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_i/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_i/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Presented at Dynamics Days 2020 (Hilton, Hartford CT, USA) and the 4th Mathematics Conference and Competition of Northern New York (MCCNNY), Clarkson University, USA.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- YouTube embed with resizable preview --&gt;
+&lt;div style=&#34;max-width: 700px; margin: 2em auto; aspect-ratio: 16/9;&#34;&gt;
+  &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+        &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8FwoP-gJSsM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+      &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;!-- 
+**Supplementary notes:**  
+Add additional technical explanations, figures, or code snippets here. 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamical Mode Analysis of Tidal Flows Through the Strait of Gibraltar</title>
+      <link>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_g/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/publication/conference-paper/dd_g/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Presented at Dynamics Days 2020: International Conference on Chaos and Nonlinear Dynamics, Hilton, Hartford CT, USA.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+**Supplementary notes:**  
+Add additional technical explanations, figures, or code snippets here. 
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamics Days 2020 – Poster Presentation</title>
+      <link>https://github.com/SathsaraDias/diassl/talk/a6/</link>
+      <pubDate>Mon, 06 Jan 2020 09:00:00 -0500</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/talk/a6/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Poster Presentation:&lt;/strong&gt; Dynamics Days 2020, Hartford, CT, USA, Jan 2020&lt;br&gt;
+Demonstrated DMD-based methods for the extraction of coherent structures in nonlinear flow fields.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+# Theme metadata
+name = "SDLogoNavy"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#202F60"
+
+# Menu
+menu_primary = "#202F60"
+menu_text = "rgba(255,255,255,0.85)"
+menu_text_active = "#FFD700"
+menu_title = "#FFFFFF"
+
+# Backgrounds
+background = "#FFFFFF"
+home_section_odd = "#F4F6FB"
+home_section_even = "#E9EDF6"
+

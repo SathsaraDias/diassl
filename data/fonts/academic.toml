@@ -1,0 +1,12 @@
+name = "academic"
+
+google_fonts = "Merriweather:400,700|Fira+Mono:400"
+
+heading_font = "Merriweather"
+body_font = "Merriweather"
+nav_font = "Merriweather"
+mono_font = "Fira Mono"
+
+font_size = "18"
+font_size_small = "15"
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sathsara Dias</title>
+    <link>https://github.com/SathsaraDias/diassl/</link>
+    <description>Recent content on Sathsara Dias</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://github.com/SathsaraDias/diassl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://github.com/SathsaraDias/diassl/publication/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acknowledgements</title>
+      <link>https://github.com/SathsaraDias/diassl/acknowledgement/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/acknowledgement/</guid>
+      <description>&lt;p&gt;I am deeply indebted to my advisor, &lt;strong&gt;Dr. Marko Budišić&lt;/strong&gt;, whose invaluable advice, guidance, suggestions, experience, wisdom, and support have been instrumental in my academic development. His exceptional mentorship over the past six years has not only helped me improve as a mathematician but also enriched my overall academic journey. I could not have hoped for a better advisor.&lt;/p&gt;
+&lt;p&gt;I am also profoundly grateful to my co-advisor, &lt;strong&gt;Dr. Brian Helenbrook&lt;/strong&gt;, for his invaluable support and guidance, especially during the final year of my PhD. His mentorship was as impactful as that of an advisor, and I am sincerely thankful for his contributions.&lt;/p&gt;
+&lt;p&gt;I would like to extend my heartfelt thanks to my co-advisor, &lt;strong&gt;Dr. Pat Piperni&lt;/strong&gt;, for generously sharing the NSU2D code, guiding me on its effective use, assisting with project-related issues, and providing numerous research ideas. Additionally, I express gratitude to &lt;strong&gt;D. Mavriplis&lt;/strong&gt; of the University of Wyoming for sharing the NSU2D code with us and for his help with the setup of the code.&lt;/p&gt;
+&lt;p&gt;I would also like to acknowledge &lt;strong&gt;Dr. Erik M. Bollt&lt;/strong&gt;, a member of my thesis committee, for his insightful discussions regarding the &amp;ldquo;Gibraltar&amp;rdquo; project and his continuous encouragement. Additionally, I extend my gratitude to &lt;strong&gt;Dr. James Greene&lt;/strong&gt;, a member of my thesis committee, for his challenging questions and valuable suggestions, which significantly contributed to the quality and rigor of my research.&lt;/p&gt;
+&lt;p&gt;Additionally, I express my gratitude to oceanographers &lt;strong&gt;Dr. Larry Pratt&lt;/strong&gt; and &lt;strong&gt;Dr. Jose Sanchez-Garrido&lt;/strong&gt; for their insightful discussions regarding the &amp;ldquo;Gibraltar&amp;rdquo; project and their encouragement. Thank you for sharing data and valuable information that enabled us to apply our theories in the field of oceanography.&lt;/p&gt;
+&lt;p&gt;I extend my sincere thanks to the department chair, &lt;strong&gt;Dr. Joseph Skufca&lt;/strong&gt;, and all the faculty and staff in the Mathematics Department at Clarkson University.&lt;/p&gt;
+&lt;p&gt;My sincere thanks go to &lt;strong&gt;Dr. Kumudu Mallawa Arachchi&lt;/strong&gt; for teaching me not only mathematics but also valuable life lessons. I am always grateful for his continuous support and motivation. Additionally, I would like to acknowledge my friend &lt;strong&gt;Sudam Surasinghe&lt;/strong&gt;, who has been a great help to me in various ways since the day I arrived in the USA for my PhD studies.&lt;/p&gt;
+&lt;p&gt;Some of the computing for this paper was performed on Clarkson University&amp;rsquo;s ACRES cluster; I am thankful to Clarkson University and the Office of Information Technology for providing computational resources and support that contributed to these research results. Additional computational resources for this grant were provided by the National Science Foundation under Grant No. 1925596. We thank the Ignite Program of Clarkson University (supported by Ken Solinsky) for the student financial support that made this project possible.&lt;/p&gt;
+&lt;p&gt;Above all, I owe the deepest gratitude to my family. Their unwavering support and love have been the cornerstone of my journey. My parents, &lt;strong&gt;Bandula Dias&lt;/strong&gt; and &lt;strong&gt;Rita Dias&lt;/strong&gt;, have been my greatest role models, instilling in me the values of perseverance and dedication. My brother, &lt;strong&gt;Ranga Dias&lt;/strong&gt;, and my sister-in-law, &lt;strong&gt;Lauren Dias&lt;/strong&gt;, have been instrumental in helping me come to the USA for my PhD, providing encouragement and standing by me through every challenge. To my sister, &lt;strong&gt;Ridma Dias&lt;/strong&gt;, your love and constant support have been a source of strength. It is to them that I dedicate this work, for their belief in me has made all the difference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TALKS AND POSTER PRESENTATIONS</title>
+      <link>https://github.com/SathsaraDias/diassl/talk/</link>
+      <pubDate>Mon, 18 Mar 2024 09:00:00 -0500</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://github.com/SathsaraDias/diassl/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

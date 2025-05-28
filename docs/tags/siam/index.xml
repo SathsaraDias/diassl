@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIAM on Sathsara Dias</title>
+    <link>https://github.com/SathsaraDias/diassl/tags/siam/</link>
+    <description>Recent content in SIAM on Sathsara Dias</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 14 May 2023 09:00:00 -0700</lastBuildDate>
+    
+	    <atom:link href="https://github.com/SathsaraDias/diassl/tags/siam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIAM DS23 – Applications of Dynamical Systems</title>
+      <link>https://github.com/SathsaraDias/diassl/talk/a2/</link>
+      <pubDate>Sun, 14 May 2023 09:00:00 -0700</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/talk/a2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Poster Presentation:&lt;/strong&gt; SIAM DS23, Applications of Dynamical Systems, USA, May 2023&lt;/p&gt;
+&lt;p&gt;This poster presented recent advances in data-driven modeling and dynamic mode decomposition for the study of nonlinear dynamical systems. The session included practical applications and visualization of DMD results for complex, real-world datasets. (Poster and further materials will be shared upon request.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIAM DS21 – Applications of Dynamical Systems</title>
+      <link>https://github.com/SathsaraDias/diassl/talk/a4/</link>
+      <pubDate>Tue, 25 May 2021 10:00:00 -0500</pubDate>
+      
+      <guid>https://github.com/SathsaraDias/diassl/talk/a4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Oral Presentation:&lt;/strong&gt; SIAM DS21, Applications of Dynamical Systems, USA, May 2021&lt;br&gt;
+Discussed recent innovations in data-driven detection methods for dynamical systems, including practical DMD applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

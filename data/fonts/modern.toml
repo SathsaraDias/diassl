@@ -1,0 +1,12 @@
+name = "modern"
+
+google_fonts = "Montserrat:400,700|Roboto:400,700|Fira+Mono:400"
+
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Montserrat"
+mono_font = "Fira Mono"
+
+font_size = "18"
+font_size_small = "15"
+
