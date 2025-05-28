@@ -92,7 +92,7 @@ As an applied mathematician specializing in data-driven analysis, I bring expert
 ---
 
 <div style="margin-top: 1.0rem; margin-bottom: 1rem;">
-  <a class="btn btn-outline-primary" href="/acknowledgement/" target="_blank" style="font-weight:600;">
+  <a class="btn btn-outline-primary" href="/diassl/acknowledgement/" target="_blank" style="font-weight:600;">
     View Acknowledgements
   </a>
 </div>
