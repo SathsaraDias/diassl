@@ -4,7 +4,7 @@
     <!-- Brand and toggle get grouped for better mobile display -->
     <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
         {{- if site.Params.logo -}}
-        <img src="{{ printf "/img/%s" site.Params.logo | relURL }}" alt="{{ site.Title }}">
+        <img src="{{ printf "/diassl/img/%s" site.Params.logo | relURL }}" alt="{{ site.Title }}">
         {{- else -}}
         {{- site.Title -}}
         {{- end -}}
