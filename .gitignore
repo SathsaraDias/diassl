@@ -1,13 +1,20 @@
-# IDE specific
+# IDE-specific
 .idea/
 
-# Jupyter
+# Jupyter notebooks
 .ipynb_checkpoints/
 
-# Node
-node_modules
-public
+# Node.js
+node_modules/
+package-lock.json
 
+# Hugo build outputs
+public/
+resources/
+hugo_stats.json
+.hugo_build.lock
+
+# Temporary / backup files
 Thumbs.db
 .DS_Store
 .dist
@@ -16,12 +23,9 @@ Thumbs.db
 .sass-cache
 npm-debug.log
 builds
-package-lock.json
-public
-resources
-.hugo_build.lock
 jsconfig.json
-hugo_stats.json
-go.sum
-yarn.lock
-hugo_stats.json
+
+# Optional (only if using)
+# go.sum
+# yarn.lock
+
